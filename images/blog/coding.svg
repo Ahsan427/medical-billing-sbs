@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <rect width="800" height="400" fill="#ECFEFF"/>
+  <rect x="0" y="280" width="800" height="120" fill="#0891B2" opacity="0.15"/>
+  <rect x="120" y="80" width="560" height="280" rx="16" fill="white" stroke="#A5F3FC" stroke-width="2"/>
+  <rect x="160" y="120" width="200" height="12" rx="4" fill="#CFFAFE"/>
+  <rect x="160" y="148" width="320" height="8" rx="3" fill="#E0F2FE"/>
+  <rect x="160" y="168" width="280" height="8" rx="3" fill="#E0F2FE"/>
+  <rect x="160" y="188" width="300" height="8" rx="3" fill="#E0F2FE"/>
+  <rect x="160" y="230" width="80" height="28" rx="6" fill="#06B6D4"/>
+  <text x="200" y="249" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="12" font-weight="bold">ICD-11</text>
+  <rect x="250" y="230" width="80" height="28" rx="6" fill="#22D3EE"/>
+  <text x="290" y="249" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="12" font-weight="bold">CPT</text>
+  <rect x="340" y="230" width="80" height="28" rx="6" fill="#0891B2"/>
+  <text x="380" y="249" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="12" font-weight="bold">HCPCS</text>
+  <circle cx="580" cy="180" r="60" fill="#06B6D4" opacity="0.2"/>
+  <path d="M560 180h40M580 160v40" stroke="#0891B2" stroke-width="4" stroke-linecap="round"/>
+  <rect x="480" y="280" width="160" height="60" rx="8" fill="#F0FDFA" stroke="#99F6E4"/>
+  <rect x="500" y="300" width="20" height="30" rx="2" fill="#2DD4BF"/>
+  <rect x="528" y="290" width="20" height="40" rx="2" fill="#14B8A6"/>
+  <rect x="556" y="295" width="20" height="35" rx="2" fill="#0D9488"/>
+  <rect x="584" y="285" width="20" height="45" rx="2" fill="#0891B2"/>
+</svg>
